@@ -3,17 +3,8 @@
 ## Visio ja tavoitteet
 Yhteisön tavoitteena on edistää avoimen lähdekoodin ohjelmistotuotteiden hyödyntämistä julkisessa hallinnossa. Useassa kaupungissa ja kunnassa hyödynnetään mm. Varaamo-tilavarauspalvelua ja LinkedEvents-tapahtumarajapintaa.
 
-## Edustus
-- Kuntaliitto
-- Hämeenlinna
-- Tampere
-- Helsinki
-- Espoo
-- Turku
-- Lappeenranta
-- Oulu
-- Hämeen liitto
-- Seinäjoki
+## Yhteisö
+Verkostossa on edustusta seuraavista organisaatioista: Kuntaliitto Oy, Hämeenlinnan kaupunki, Tampereen kaupunki, Helsingin kaupunki, Espoon kaupunki, Turun kaupunki, Lappeenrannan kaupunki, Oulun kaupunki, Hämeen liitto, Seinäjoen kaupunki.
 
 ## Ajatuksia
 - Millainen on verkoston koordinaattorin rooli?
