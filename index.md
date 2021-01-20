@@ -1,5 +1,7 @@
 # Avoimen lähdekoodin yhteistyöverkosto
 
+![Logot](logot.png)
+
 ## Visio ja tavoitteet
 Yhteisön tavoitteena on edistää avoimen lähdekoodin ohjelmistotuotteiden hyödyntämistä julkisessa hallinnossa. Useassa kaupungissa ja kunnassa hyödynnetään mm. Varaamo-tilavarauspalvelua ja LinkedEvents-tapahtumarajapintaa.
 
