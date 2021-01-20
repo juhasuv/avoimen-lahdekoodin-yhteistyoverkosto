@@ -4,4 +4,14 @@
 
 ## Visio ja tavoitteet
 
-## Jäsenet
+## Edustus
+- Kuntaliitto
+- Hämeenlinna
+- Tampere
+- Helsinki
+- Espoo
+- Turku
+- Lappeenranta
+- Oulu
+- Hämeen liitto
+- Seinäjoki
